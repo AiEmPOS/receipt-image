@@ -1,0 +1,30 @@
+Logo 
+INVOICE # / #IN000008
+ORDER # / GELMAAZWJ
+ORDER DATE / 22/01/2016
+PAYMENT / Cash on delivery (COD)
+SHIPPING / My carrier
+
+BILL TO
+john DOE
+16, Main street
+Miami - 33133 Forida
+0102030405
+
+SHIP TO
+john DOE
+16, Main street
+Miami - 33133 Forida
+0102030405
+
+Terms & Notes
+Thank you for your continued
+support of business.
+
+IMAGE PRODUCT NAME QTY PRICE ITEM TOTAL
+  Blouse - Size : S, Color : Black 2 $27.00 $54.00
+
+Subtotal $61.00
+Shipping & Handling $7.00
+Tax: $0
+Grand Total $61.00

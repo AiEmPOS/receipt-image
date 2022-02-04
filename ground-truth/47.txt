@@ -1,0 +1,33 @@
+Invoice
+My Company Gregory E. Willis
+6258 Amesbury St
+San Diego, CA 92114
+Germany
+example@example.com
+
+Invoioe Number: INV-1258
+PO Number:
+Invoice Date: 24-Dec-2012
+Due Date: 23-Jan-2013
+Balance Due: $50.00
+
+Bill To Robert Son
+799 E DRAGRAM SUITE 5A
+TUCSON AZ 85705
+United States of America
+
+Ship To Robert Son
+799 E DRAGRAM SUITE 5A
+TUCSON AZ 85705
+United States of America
+
+QTY PRODUCT DESCRIPTION UNIT PRICE LINE TOTAL
+1.00 Web Design Web Design $50.00 $50.00
+
+SUB TOTAL $50.00
+TAX $0.00
+FEE $0.00
+DISCOUNT $0.00
+TOTAL $50.00
+PAYMENTS $0.00
+BALANCE $50.00

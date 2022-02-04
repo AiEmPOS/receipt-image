@@ -1,0 +1,43 @@
+Invoice
+
+Stanford Plumbing & Heating
+123 Madison drive, Seattle, WA, 78290
+www.plumbingstanford.com
+990-120-4560
+
+BILL TO
+Allen Smith
+87 Private st. Seattle, WA
+allen@gmail.com
+990-302-1898
+
+Invoice No: #INVO20B1
+Invoice Date: 11/11/18
+Due Date: 12/01/18
+
+DESCRIPTION 
+Installed new kitchen sink (hours)
+Toto sink
+Worcester greenster magnetic system filter
+Nest smart thermostar
+Worcester Greenstar 30
+
+OTY/ HR UNIT PRICE
+50.00
+500.00
+190.00
+250.00
+1500.00
+TOTAL
+150.00
+500.00
+190.00
+250.00
+1500.00
+
+SUBTOTAL 2590.00
+DISCOUNT 50.00
+SUBTOTAL LESS DISCOUNT 2540.00
+TAX RATE 12.00%
+TOTAL TAX 304.80
+Balance Due  $2,844.80

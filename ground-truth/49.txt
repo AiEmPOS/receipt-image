@@ -1,0 +1,41 @@
+TAILWIND
+TRADERS
+
+Name
+Russell Raje
+
+Address
+575 Rue St Amable
+State
+Quebec
+Country
+Canada
+City
+Quebec
+Postal Code
+G1R
+
+Company Sofatakin
+Company Address 2690 Frayne Ct.
+Company City Berkeley
+Company State California
+Company Postal Code 94704
+Company Country United States
+
+Invoice No.
+36422 
+Order Date
+8 May 2011
+Email
+rraje@sofatakin.com
+
+Invoice
+Itm Qty Description Price Discount (Pct) tax LineTotal
+53 2 Stainless multi-tool plier $90.00 $36.00 20% $154.08
+15 1 Bathroom Sink Faucet Classic $100.00 $0.00 0% $7.00 $107.00
+
+Subtotal $244.00
+Total Discount $36.00
+Tax Rate 7%
+Total Tax $17.08
+Total $261.08

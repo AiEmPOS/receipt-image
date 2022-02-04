@@ -1,0 +1,142 @@
+John Smith
+4490 Oak Drive
+Albany, NY 12210
+BILL TO
+SHIP TO
+INVOICE #
+INT-001
+Jessie M Horne
+Jessie M Horne
+INVOICE DATE
+11/02/2019
+4312 Wood Road
+2019 Redbud Drive
+P.O.#
+2412/2019
+New York, NY 10031
+New York, NY 10011
+DUE DATE
+26/02/2019
+Invoice Total
+$204.75
+QTY
+DESCRIPTION
+UNIT PRICE
+AMOUNT
+1
+Front and rear brake cables
+100.00
+100.00
+2
+New set of pedal arms
+25.00
+50.00
+3
+Labor 3hrs
+15.00
+45.00
+Subtotal
+195.00
+Sales Tax 5.0%
+9.75
+TERMS & CONDITIONS
+Payment is due within 15 days
+Name
+fBank
+Account number: 1234567890
+Routing: 098765432
+
+John
+Smith
+4490
+Oak
+Drive
+Albany,
+NY
+12210
+BILL
+TO
+SHIP
+TO
+INVOICE
+#
+INT-001
+Jessie
+M
+Horne
+Jessie
+M
+Horne
+INVOICE
+DATE
+11/02/2019
+4312
+Wood
+Road
+2019
+Redbud
+Drive
+P.O.#
+2412/2019
+New
+York,
+NY
+10031
+New
+York,
+NY
+10011
+DUE
+DATE
+26/02/2019
+Invoice
+Total
+$204.75
+QTY
+DESCRIPTION
+UNIT
+PRICE
+AMOUNT
+1
+Front
+and
+rear
+brake
+cables
+100.00
+100.00
+2
+New
+set
+of
+pedal
+arms
+25.00
+50.00
+3
+Labor
+3hrs
+15.00
+45.00
+Subtotal
+195.00
+Sales
+Tax
+5.0%
+9.75
+TERMS
+&
+CONDITIONS
+Payment
+is
+due
+within
+15
+days
+Name
+fBank
+Account
+number:
+1234567890
+Routing:
+098765432

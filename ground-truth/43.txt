@@ -1,0 +1,26 @@
+Supplier: 
+Mr Smith
+Business Number: 1254789
+251 Plantation Rd
+Eastern States
+North Pole
+07 3388 4804
+me@sales.com.au
+
+Date: 25 August 2000 
+Invoice Number: 2
+
+Customer:
+COMPUTERS NEVER WORK 
+3256 Mountain Pass
+South Pole
+
+qty 1
+ITEM FURNITURE REPAIRS
+UnitPrice 150.00
+GST 15
+Totals 165
+
+TOTAL AMOUNT PAYABLE THIS INVOICE: 165.00
+Total Price Inclides GST of: 15.00
+Total Excluding GST 150.00

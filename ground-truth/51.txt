@@ -1,0 +1,30 @@
+ARJ Construction
+555 Smith St NA
+Kelowna, BC VIP1A1
+Phone 509-669-500 Fax 509-669-501
+
+INVOICE #00235
+DATE: NOVEMBER 7, 2012
+
+TO:
+John McDonald
+Green Estate
+6554 Green Ave.
+Vancouver 98660
+339-562-5512
+
+SHIP TO:
+John McDonald
+Green Estate
+6554 Green Ave.
+Vancouver 98660
+339-562-5512
+
+QUANTITY DESCRIPTION UNIT PRICE TOTAL
+560 2" Nails $0.25 $140.00 
+
+SUBTOTAL $140.00
+VAT 20% $28.00
+SHIPPING & HANDLING
+TOTAL DUE $168.00
+

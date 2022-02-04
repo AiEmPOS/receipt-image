@@ -1,0 +1,25 @@
+To 
+Charlotte Smith
+charlotte.smith@email.com
+
+Invoice Number
+000104
+Issued 
+19 June 2019
+Due
+3 July 2019
+
+Company Pty Ltd
+ABN 123456789
+100 George St. Sydney NSW 2000
+0400 000 000
+company.pty.ltd@emailcom
+
+Item Description Quantity Price GST Total 
+
+Accounting Accounting and tax consultation services and lodging 1 10,234.00 10% $10,234.00
+Auditing Auditing services 1 5678.00 10% $5,678.00
+
+Subtotal $15,912.00
+Total GST 10% $1,591.20
+Amount Due $17,503.20
