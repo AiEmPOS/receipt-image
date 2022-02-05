@@ -1,0 +1,32 @@
+Cole's Company
+5 Twins Road
+Kent, ST, DA2
+7AT[City, ST ZIP Code]
+Phone 0771969005
+
+INVOICE
+INVOICE # [100]
+DATE: MARCH 13, 2014
+
+TO:
+Earl's Ices
+5 Ice-cream Lane
+Kent, ST, DA2 7AT
+0771943527
+
+
+SHIP TO:
+Earl
+Earl's Ices
+5 Ice-cream Lane
+Kent, ST, DA2 7AT
+0771943527
+Kent, ST, DAZ 7AT
+
+QUANTITY DESCRIPTION UNIT PRICE TOTAL
+1x Desktop Computer 1. Desktop computer 2.Attached List 688.00 688.00
+
+SUBTOTAL 688.00
+VAT 10.00
+INSTALLATION FEE 22.00
+TOTAL DUE 722.00x

@@ -1,0 +1,33 @@
+D3
+DOUGH
+& Co.
+
+INVOICE
+408 BYERS LANE, SACRAMENTO, CA 94260
+123-456-7890 | WW.REALLYGREATSITE.COM
+
+TOBIAS JOHNSON
+123-456-7890
+hello@reallygreatsite.com
+
+DDC0047
+27 Oct 2030
+
+DESCRIPTION AMOUNT DUE
+D3 Breakfast Special 12 dozens $50.00 $600.00
+(per dozen)
+A delectable donut and
+coffee combo to kickstart
+busy mornings.
+D3 Lunchbox Supreme 144 servings $10 $1,440.00
+(per serving)
+A complete healthy
+midday meal packed with
+protein and greens.
+
+TOTAL AMOUNT $2,040.00
+
+PLEASE SEND PAYMENTS TO
+D3 Dough & Co
+Account No: 123-4567-89
+Bank: Bank of Kyobi Islands, Inc.

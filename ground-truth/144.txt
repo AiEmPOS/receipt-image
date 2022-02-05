@@ -1,0 +1,49 @@
+StripesShop
+
+Sales Invoice
+
+INVOICE NUMBER#9000000001
+ORDER #9000000001
+ORDER DATE Dec 11, 2020, 10:56:14 AM
+
+CUSTOMER NAME
+Veronica Costello
+
+ADDRESS
+Veronica Costello
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States
+T: (555) 229-3326
+
+SHIPPING METHOD
+Flat Rate - Fixed
+
+PAYMENT METHOD
+Check / Money order
+
+ITEMS QTY SUBTOTAL
+Endurance Watch 1 $49.00
+SKU: 24-MG01
+Fusion Backpack 1 $50.00
+SKU: 24-MB02
+Affirm Water Bottle 1 $7.00
+SKU: 24-UG06
+Pursuit Lumaflex Tone Band 1 $16.00
+SKU: 24-UG02
+Go-Get'r Pushup Grips 1 $19.00
+SKU: 24-UG05
+
+SUBTOTAL $141.00
+DISCOUNT (EYHPAOMMT909FXDH, FREE SHIPPING ON ANY PURCHASE OVER $50) -$14.10
+TAX $10.47
+SHIPPING & HANDLING $25.00
+GRAND TOTAL $162.37
+
+Thank you for your order!
+If you have questions about your order, you can email us at support@example.com.
+
+StripesShop
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States

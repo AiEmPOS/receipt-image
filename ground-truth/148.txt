@@ -1,0 +1,35 @@
+INVOICE
+INVOICE NO: 0330-00012
+DATE: 30 MARCH 2020
+
+BOLT ON
+1025 Mudlick Road
+Yakima. WA 98902
+509-575-3999
+info@bolton.com
+www.bolton.com
+
+BILL TO
+Lorraine o. Wright
+4141 Pearl Street, Sacramento, CA
+916-398-1161 |lorrainewright@mail.com
+
+AMOUNT DUE: $24.99
+
+DESCRIPTION PRICE QTY AMOUNT
+Heart Planner Charm $1.50 3 $4.50
+Cute Cupcake Planner Charm $1.50 6 $9.00
+Kawaii Pineapple Keychain $2.75 4 $11.00
+
+SUBTOTAL $24.50
+TAX (2%) $0.49
+TOTAL $24.99
+
+BANKING DETAILS
+Account Name:
+Bolt On
+Account Number:
+341507864861762
+
+THANK YOU FOR YOUR BUSINESS!
+HAVE A NICE DAY!

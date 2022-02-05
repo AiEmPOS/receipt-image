@@ -1,0 +1,34 @@
+Timo DenkㆍSome Street 82ㆍ10000 Berlin, Germany
+
+Denk Development
+
+Recipient Name
+Another Avenue 18
+12345 Berlin
+Germany
+
+Invoice ID: 4736
+Issue date: August 9, 2019
+Tax number: 35061/00029
+
+Invoice
+
+Item Amount Description Price per unit Total price
+#1 2.25 h Development of in project Character Grid 135.00 € 30.5 €
+#2 40.3 h Research on 2D embedding 145.00 € 5,843.50 €
+#3 8.85 h Research on 1D embedding 145.00 € 1,283.25 €
+#4 1 Shipping 9.99 € 9.99 €
+
+Sum 7,438.24 €
+Total price 7,438.24 €
+
+Date of delivery / service provision: July through August 2019
+This invoice has no turnover tax due to Kleinunternehmerregelung according to § 19 UStG.
+
+Bank account Timo Denk
+IBAN DE02 1421 1422 7293 1738 99
+BIC DJENKSUXXX
+Transfer details Denk Development Invoice 4736
+Timo DenkㆍEmail-address: development@timodenk.comㆍWebsite: development.timodenk.com
+
+

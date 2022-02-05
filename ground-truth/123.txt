@@ -1,0 +1,29 @@
+ABC Goods Ltd
+55 Main Street, Auckland, 8976 PO Box 12-345 | Phone: (09)8766757
+
+TAX INVOICE
+
+TO:
+Jane Buchanan
+Contract Manager
+Office Management Team
+Ministry of Entertainment
+PO Box 33-3333
+Wellington
+
+GST number: 98-765-432
+Date of invoice: 30 April 2012
+Invoice number: #1
+Period covered April 2012
+
+Description				Quantity Unit Price Amount
+Office Chairs (ref:CHA12445)		10	 $105.00    $1,050.00
+Freeform tables (ref:TAB23112)		12 	 $150.00    $1,800.00
+Shelving (ref:SHE29348)			5	 $75.00     $375.00
+
+
+total $3,225.00
+plus GST due $483.75
+total including GST $3,708.75
+less 10% discount $370.88
+balance left to pay $3,337.88

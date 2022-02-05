@@ -1,0 +1,25 @@
+Liceria Co.
+BOUTIQUE STORE
+
+Invoice to:
+Alfredo Torres
+123 Anywhere St..
+Any City, ST 12345
+
+Feb 25, 2022
+Invoice No : 123-456-7890
+
+SERVICE QTY PRICE TOTAL
+Slipper 1 $200 $200
+Hats 1 $300 $300
+Accessories 1 $100 $100
+Necklace 1 $100 $100
+Purses 1 $100 $100
+Candles 1 $100 $100
+
+Sub-total: $900
+Tax 7%: $63
+
+SERVICE
+Warner & Spencer Bank
+123-456-7890

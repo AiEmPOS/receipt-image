@@ -1,0 +1,39 @@
+Katalyst Demo Co Ltd
+41 Alfriston Road
+Manurewa
+Manukau City 2243
+New Zealand
+Phone 09 269 5466
+glennis@katalyst.co.nz
+
+TAX INVOICE
+
+Attention: Glennis Stuckey
+The Purple Horse Ltd
+PO Box 75337
+Manurewa
+Auckland 2243
+New Zealand
+
+Date: 19 June 2015
+Date Due: 26 June 2015
+Invoice Number: 1000027
+Reference: Bob
+GST Number: XXX-XXX-XXX
+
+Tasks						Time	Rate		Amount
+15 June 2015 Glennis Stuckey Concept 		1:30	178.00		267.00
+16 June 2015 Glennis Stuckey Concept    	1:00	178.00		178.00
+17 June 2015 Glennis Stuckey Design		1:00	178.00		178.00
+17 June 2015 Glennis Stuckey Design		3:05	178.00		548.33
+18 June 2015 Glennis Stuckey Art Direction 	2:00 	150.00		300.00
+
+Costs 									Qty 	Unit Price Amount
+Photography 								1.00 	500.00     500.00
+	Photos of entrance and carpark
+Full Colour Sample Prints 						2.00 	5.00       10.00
+	Sample printed in full colour and folded as per brochure
+
+Subtotal 1,981.83
+GST 297.27
+Total $2.279.10

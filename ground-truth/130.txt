@@ -1,0 +1,38 @@
+Invoicing & Posting - Preview Invoice for UNANET-00989
+
+Bill To: 
+Attn: Jane Abbott Invoice 
+480 Rosecrans Ave. 
+Manhattan Beach CA 90266
+USA
+
+Ship To:
+Attn: Bob Jones
+480 Rosecrans Ave.
+Manhattan Beach CA 90266
+USA
+
+Invoice Number: UNANET-00989
+Date: 12/1/2020
+Payment Terms: 1% 10 Net 30
+Discount  Amount: $10.87
+
+Billing Through: 12/1/2020
+Due Date: 12/31/2020
+Discount Date: 12/11/2020
+
+INVOICE
+Description Amount
+Fixed Price 1,087.13
+	Asset Tag # 100025 Dell Latitude Laptop 12/01/2020 - 12/01/2025
+
+Total for Fixed Price: 1,087.13
+Total Amount Due This Invoice: 1,087.13
+Total Amount Invoiced To Date: 1,087.13
+
+Please remit payment to:
+Attn: Frank Controller
+My Company
+123 Rainbow Ln
+Des Moines IA 30291
+United States

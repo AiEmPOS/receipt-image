@@ -1,0 +1,37 @@
+GPetrium
+Ontario, Canada
+Phone:+1(555)333-2222
+Website: https://www.gpetrium.com
+E-mail: contact@gpetrium.com
+
+
+INVOICE
+Invoice ID 1005
+Customer ID [029]
+Issue Date 2019-07-01
+Due Date 2019-08-01
+
+Bill To:
+Ackman Larson
+M axbahn
+8000 Sondenten
+Hamburg, Hamburg, Germany
++49 89 99999
+
+Description Days Rate Amount
+Data Analytics- Analyst Fee 12 $ 750.00 $ 9,000.00
+Data Visualization - Analyst ee 15$ 750.00 $ 11,250.00
+
+Discount $ (100.00)
+
+Subtotal $ 20,150.00
+Total $ 3,022.50
+Total $ 23,172.50
+
+Notes
+Thank you for your business
+
+Terms & Conditions
+Please pay within 30 days as stipulated in
+the contract
+

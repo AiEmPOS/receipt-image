@@ -1,0 +1,43 @@
+1313 Mockingbird Lane
+Chicago, Illinois 74133
+(800) 555 1212
+
+INVOICE
+
+Bill To: William Carter
+1000 Main St.
+Atlanta, GA
+
+Date: Dec 07, 2006
+Invoice Number: 161803398875
+
+Item Quantity Unit Price Total
+Widget 5 $2.99 $14.95
+Gadget 8 $4.50 $36.00
+Gizmo 1 $199.99 $199.99
+Thingamabob 11 $0.99 $10.89
+
+note: Due to limited availability, this product may
+be shipped separately.
+
+Whatchamacallit 1 $74.99 $74.99
+Whosiwhatsis 4 $1.99 $7.96
+Doodad 1 $3.99 $3.99
+Thingamajig 1 $2.99 $2.99
+Doohickey 1 FREE FREE
+
+note: Please accept this item as our gift for
+shopping with us!
+
+Total: $351.76
+
+Payment of $351.76 is due upon receipt.
+Please make checks payable to RMart, LLC.
+
+PRIVACY NOTICE:
+This notice is being made pursuant to Civil Code 34.14.a. RMart collects certain
+information that it may, at its sole discretion, reveal to third parties.  That's just the way it
+goes.
+
+Page 1
+

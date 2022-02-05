@@ -1,0 +1,27 @@
+Invoice
+
+GRAVITY
+Gravity PDF
+ABN: 74 212 487 581
+48 Federation Way
+Telegraph Point NSW 2441, Australia
+support@gravitypdf.com
+gravitypdf.com
+
+Invoice Date: 31/01/2017
+Invoice #: PDF47-WEB
+
+Wiseman Water
+151 Narrows Parkway
+Birmingham West Midlands B11
+United Kingdom
+simon.wiseman@example.com
+
+Qty Description Unit Price Total 
+1. Laptop 1,380.00 1,380.00
+1. Accessories 35.00 35.00
+
+Express Post 40.00
+Total  1,455.00
+
+Thank you for your business!

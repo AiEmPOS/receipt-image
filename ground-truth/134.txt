@@ -1,0 +1,48 @@
+ArgentoHome
+
+HomeStore
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States
+
+Invoice #000000006
+
+Order #11000000004
+Order Nov 2,2020,
+date 2:49:40 PM
+
+Veronica Costello
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States
+T: (555) 229-3326
+
+Shipping Method
+Flat Rate - Fixed
+
+Payment Method
+Check / Money order
+
+items Qty Subtotal
+Clamber Watch 2 $100.00
+SKU: 24-WG03
+Olivia 1/4 Zip Light Jacket
+SKU: WJ12-M-Purple
+Size
+M 1 $77.00
+Color
+Purple
+Rival Field Messenger
+SKU: 24-MB06 1 $45.00
+
+Subtotal $222.00
+Discount -$24.40
+Tax $36.06
+Shipping & Handling $20.00
+Grand Total $253.66
+
+THANK YOU FOR YOUR ORDER!
+If you have questions about your order, you can email us at sales@example.com
+
+
+

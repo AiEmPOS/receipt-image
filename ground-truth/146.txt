@@ -1,0 +1,41 @@
+MSGR
+123 Anywhere St.,
+Any City, ST 12345
+
+M
+
+INVOICE
+
+Invoice Invoice # 002
+December 15, 2025
+
+BILL TO
+Carly Ferris
+328 Saint Clair Drive
+Newville, PA, USA
+12345
+123-456-7890
+
+Description Amount Due
+MSGR Pro Annual Plan $1,234
+From December 15, 2025
+to December 15, 2026
+
+MSGR Pro Advertising Package $1,234
+From December 15, 2025
+to March 15, 2026
+
+BANK TRANSFER
+DETAILS
+Golden Ore Bank
+Account name
+MSGR
+Account number
+123-456-7890
+
+Please pay invoice
+within 15 days.
+
+Total Amount $2,468
+
+123-456-789 hello@reallygreatsite.com www.reallygreatsite.com

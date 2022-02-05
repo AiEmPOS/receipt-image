@@ -1,0 +1,24 @@
+INVOICE
+www.reallygreatsite.com
+123 Anywhere St., Any City
++123-456-7890
+
+FASHION STORE
+
+Invoice# 20212
+Invoice Date: 02/02/22
+
+INVOICE TO: Lorna Alvarado
+Item Description Qty Price Total
+Dress 1 $59 $59
+Hoodie 1 $69 $69
+Heels 2 $39 $78
+
+Subtotal $206
+Tax (10%) $20
+GRAND TOTAL $226
+
+PAYMENT INFORMATION:
+Bank Name: Thynk Unlimited
+Bank No: 123-456-7890
+Email: hello@reallygreatsite.com

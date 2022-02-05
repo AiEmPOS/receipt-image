@@ -1,0 +1,44 @@
+Magento
+
+XTENTO Test Store
+123 Some Street
+90210 Beverly Hills
+US
+(541) 754-3010
+owner@example.com
+
+Veronica Costello
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States
+T: (555) 229-3326
+
+Invoice No INV100200
+Date Order Number Order Date
+Dec 13, ORD100200 Dec 13, 2018
+2018
+
+
+Payment Method
+Check / Money order
+
+Shipping Method
+Best Way - Table Rate
+
+Product Price Qty Row Total
+Ajax Full-Zip Sweatshirt $74.69 1 $74.69
+SKU: MH12-XS-Blue
+Marco Lightweight Active Hoodie-XS-Lavender $80.11 3 $240.32
+SKU: MH13-XS-Lavender
+Grayson Crewneck Sweatshirt $69.28 1 $69.28
+SKU: MH11-XL-Orange
+
+Subtotal $355.00
+Discount -$71.00
+Tax $23.43
+Grand Total $307.43
+
+Note
+Our general terms and conditions apply.
+
+Thank you for your business!

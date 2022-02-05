@@ -1,0 +1,24 @@
+Order Invoice/Bill Receipt
+11-MAY-2021 10:24 PM
+
+Sold by:
+Best Sales Pvt. Ltd.
+Mumbai Central
+Mumbai 400017
+Maharashtra India
+
+Order No:15484659
+Invoice No:MH-MU-1077
+Date:11/05/2021 10:57:00 PM
+
+Customer details:
+Customer ABC
+R783, Rose Apartments, Santacruz (E)
+Mumbai 400054
+Maharashtra India
+
+ID Product Qty Price Total Price
+15785 Acer Aspire E573 1 39999 39999
+15786 Dell Magic Mouse WQ1545 2 2999 5998
+
+Total 45997

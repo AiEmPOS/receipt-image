@@ -1,0 +1,35 @@
+ACLAM Technical Service
+
+Supplier
+ACLAM Technical Service
+Parkway Business Park Main
+Street, Leeds West
+Yorkshire, LS8 4EZ
+United Kingdom
+
+Tel: +44 (0)1407 325973
+Fax: +44 (0)1407 325964
+Email: infe@aclam.co.uk
+Web: www.aclam.co.uk
+
+John Smith Inc.
+22 Park Alley
+Bristol, BS20 72T
+United Kingdom
+
+Date: 29/01/2019
+Invoice # 71907
+Customer ID: 25/3469
+
+Information Invoice
+
+POS. DESCRIPTION QUANTITY UNITY
+1 Article 15987 2 18.00
+2 Article 63223 1 4.96
+3 Article 97688 3 36.00
+4 Article 42215 1 9.92
+
+Total: 158.88
+
+Total payment due in 30 days. Please include the Invoce number on your check. If you have questions about this
+invoice please contact info@aclam.co.uk. Thank you for your business.

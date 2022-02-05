@@ -1,0 +1,27 @@
+INVOICE
+
+INVOICE # 005
+Issued on January 10, 2025
+
+RICHARD PEARSON
+15400 Sherman Way #170,
+Van Nuys, CA, 91406
+
+MONOLITH FASHION
+Account Name: Monolith Fashion Inc.
+Account No.: 250 9717 1224 2302
+
+DESCRIPTION QTY PRICE TOTAL
+Hooded Running Jacket 1 $230 $230
+Leather Coat 1 $250 $250
+Raw Edge T-Shirt 1 $80 $80
+Skinny Low Jeans 3 $150 $450
+
+TOTAL AMOUNT: $1,010
+TAX: $30
+AMOUNT DUE: $1,040
+
+MONOLITH FASHION
+(925) 447-5308
+www.monolithfashion.com
+4075 Fordham Ct, Livermore, CA

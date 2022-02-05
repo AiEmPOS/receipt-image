@@ -1,0 +1,42 @@
+Amazon.com
+
+INVOICE
+
+123 Some Street
+Some City, XYZ, USA
+Phone# +1333-333-3333
+www.amazon.com
+
+INVOICE# 123PQR456
+DATE 01-Jan-2021
+
+FOR Some Work
+P.O.# 098ZYX7654 
+
+SHIP TO
+The Receiver
+XZY Company
+789 Another Avenue
+Different City, XYZ, USA
+Phone# +1222-222-2222 receiver@xzycompany.com
+
+Description Quantity Unit Price Amount
+Product 1 1 $1000 $1000
+Service 3   $2789 $2789
+Product 2 2 $106.04 $212.08
+Product 3 1 $2168.32 $2168.32
+
+total $6169.40
+Tax $61.69
+Grand Total $6231.09
+
+Make all checks payable to Amazon.com
+
+Payment Terms: 30 days
+Due Date: 01/31/2021
+VAT ID: 12-3456789
+
+If you have any questions concerning this invoice, contact Customer Service | +1 333-333-3333  |
+customerservice@example.com
+
+THANK YOU FOR YOUR BUSINESS!

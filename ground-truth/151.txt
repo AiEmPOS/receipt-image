@@ -1,0 +1,24 @@
+DLY
+URBAN CLUB
+
+INVOICE
+
+Invoice #HG0034
+Nov. 10,2030
+
+Bill to:
+Matteo Kernan
+123 Myers St., Malorbeen QY 12344
+
+DESCRIPTION QTY PRICE AMOUNT DUE
+30-Day Abs Bootcamp 1 $400 $400
+Includes daily workout videos
+and weekly coaching sessions
+DKY Urban Club Kettlebell 2 $20 $40
+Weighing 20 Ib
+
+TOTAL AMOUNT $ 440
+
+FOR PAYMENT:
+Debit and credit card options available at
+www.reallygreatsite.com

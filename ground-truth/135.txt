@@ -1,0 +1,54 @@
+ARGENTO NEUE
+
+SALES INVOICE
+
+LuxuryStore
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States
+
+INVOICE NUMBER #6000000001
+ORDER #6000000001
+ORDER DATE Dec 14, 2020, 4:18:34
+			      PM
+
+BILLED TO
+
+CUSTOMER NAME
+Veronica Costello
+
+ADDRESS
+Veronica Costello
+6146 Honey Bluff Parkway
+Calder, Michigan, 49628-7978
+United States
+T:(555) 229-3326
+
+PAYMENT & SHIPPING
+
+SHIPPING METHOD
+Flat Rate - Fixed
+
+PAYMENT METHOD
+Check / Money order
+
+ITEMS QTY SUBTOTAL
+Luma Analog Watch 1 $43.00
+SKU: 24-WG09
+Fusion Backpack 1 $50.00
+SKU: 24-MB02
+
+SUBTOTAL $93.00
+SHIPPING & HANDLING $10.00
+TAX $7.67
+GRAND TOTAL $110.67
+
+THANK YOU FOR YOUR ORDER!
+If you have questions about your order, you can email us at support@example.com
+
+
+
+
+
+
+

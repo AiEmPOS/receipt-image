@@ -1,0 +1,40 @@
+COMPANYNAME 
+
+Invoice #: 00001-2017
+Invoice Date: April 13, 2017
+Order Date: April 13, 2017
+Order Number: 101
+Payment Method: Direct bank transfer
+
+Invoice
+Company Name
+1401 Main St
+Falls Church, VA 22042-1441
+United States (US)
+
+Ship to:
+Bas Elbers
+1401 Main St
+Falls Church, AK VA 22042
+United States (US)
+
+Bas Elbers
+1401 Main St
+Falls Church, AL VA 22042
+United States (US)
+
+Product Qty Price
+Flying Ninja 1 $12.00
+
+Subtotal: $12.00
+VAT 21%: $2.52
+
+Total: $14.52
+
+Note from customer: Customer provided note.
+
+Some terms & conditions, policies etc.
+Some terms & conditions, policies etc. 1 of 1
+
+
+

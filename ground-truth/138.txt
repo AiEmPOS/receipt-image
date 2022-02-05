@@ -1,0 +1,41 @@
+GBP Copy
+
+aelia
+
+
+Aelia - Test Shop
+1 Main Street
+Bray, Co. Wicklow
+Ireland
+http://wc-demo.aelia.co
+
+
+INVOICE
+Invoice Date: 18/12/2014
+Order Number: 48
+Order Date: 18/12/2014
+Payment Method: Cash on DEvelivery
+
+CUSTOMER DETAILS
+John Doe
+None
+1 Main Street
+Dublin
+Dublin
+BT36 4PE
+VAT #: 802311782
+
+COPY OF INVOICE 41
+This invoice copy is in: GBP(Pounds Sterling)
+Exchange rate applied (EUR to GBP): 0.7863
+
+Product Quantity Price
+Simple product 1 £78.63
+SKU: Simple01
+
+Cart Subtotal £78.63
+Shipping €10.00 via Flat Rate
+Low 10% VAT £8.65
+Payment Method Cash on Delivery
+Order Total £95.14
+
